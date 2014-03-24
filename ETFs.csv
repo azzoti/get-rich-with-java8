@@ -1,0 +1,851 @@
+Ticker,Name,AssetClass,Asset SubClass
+DEE,PowerShares DB Commodity Dble Short ETN,Leveraged,Inverse Commodity
+DTO,PowerShares DB Crude Oil Dble Short ETN,Leveraged,Inverse Commodity
+SLV,iShares Silver Trust,Commodity,Metals
+DBS,PowerShares DB Silver,Commodity,Metals
+USV,E-TRACS UBS Bloomberg CMCI Silver ETN,Commodity,Metals
+GDX,Market Vectors Gold Miners ETF,Commodity,Metals
+HAO,Claymore/AlphaShares China Small Cap,Equity,Emerging Markets Small Cap
+DGP,PowerShares DB Gold Double Long ETN,Leveraged,Leveraged Metals
+SZO,PowerShares DB Crude Oil Short ETN,Inverse,Inverse Commodity
+TAO,Claymore/AlphaShares China Real Estate,Real Estate,Global Real Estate
+DDP,PowerShares DB Commodity Short ETN,Inverse,Inverse Commodity
+JJP,iPath DJ AIG Prec Metals TR Sub-Idx ETN,Commodity,Metals
+SGG,iPath DJ AIG Sugar TR Sub-Idx ETN,Commodity,Commodities
+PFF,iShares S&P U.S. Preferred Stock Index,Bond,Preferred Stock
+GXC,SPDR S&P China,Equity,Emerging Markets
+DBP,PowerShares DB Precious Metals,Commodity,Metals
+FCHI,iShares FTSE China (HK Listed) Index,Equity,Emerging Markets
+IAU,iShares COMEX Gold Trust,Commodity,Metals
+GLD,SPDR Gold Shares,Commodity,Metals
+EWM,iShares MSCI Malaysia Index,Equity,Emerging Markets
+AAXJ,iShares MSCI All Country Asia ex Jpn Idx,Equity,Emerging Markets
+DGL,PowerShares DB Gold,Commodity,Metals
+GMF,SPDR S&P Emerging Asia Pacific,Equity,Emerging Markets
+DGS,WisdomTree Emerging Mkts Small Cap Div,Equity,Emerging Markets Small Cap
+UBG,E-TRACS UBS Bloomberg CMCI Gold ETN,Commodity,Metals
+PGF,PowerShares Financial Preferred,Bond,Preferred Stock
+FXI,iShares FTSE/Xinhua China 25 Index,Equity,Emerging Markets
+EWX,SPDR S&P Emerging Markets Small Cap,Equity,Emerging Markets Small Cap
+SZR,WisdomTree Dreyfus South African Rand,Currency,Currency
+PTM,E-TRACS UBS Long Platinum ETN,Commodity,Metals
+EZA,iShares MSCI South Africa Index,Equity,Emerging Markets
+PXH,PowerShares FTSE RAFI Emerging Markets,Equity,Emerging Markets
+PGX,PowerShares Preferred,Bond,Preferred Stock
+EPI,WisdomTree India Earnings,Equity,Emerging Markets
+AGA,PowerShares DB Agriculture Dble Shrt ETN,Commodity,Agriculture
+LD,iPath DJ AIG Lead TR Sub-Idx ETN,Commodity,Metals
+PGM,iPath DJ AIG Platinum TR Sub-Idx ETN,Commodity,Metals
+PDN,PowerShares FTSE RAFI Dev Mkts ex-US S/M,Equity,Foreign
+PCY,PowerShares Emerging Mkts Sovereign Debt,Bond,Emerging Markets Debt
+DNH,WisdomTree Pacific ex-Japan Equity Inc,Equity,Japan
+INP,iPath MSCI India Index ETN,Equity,Emerging Markets
+PAF,PowerShares FTSE RAFI Asia Pacific ex-Jp,Equity,Emerging Markets
+NUCL,iShares S&P Global Nuclear Energy Index,Equity,Theme
+THD,iShares MSCI Thailand Invest Mkt Index,Equity,Emerging Markets
+EWT,iShares MSCI Taiwan Index,Equity,Emerging Markets
+BKF,iShares MSCI BRIC Index,Equity,Emerging Markets
+LQD,iShares iBoxx $ Invest Grade Corp Bond,Bond,Corporate
+BIK,SPDR S&P BRIC 40,Equity,Emerging Markets
+PGJ,PowerShares Gldn Dragon Halter USX China,Equity,Emerging Markets
+FNI,First Trust ISE Chindia,Equity,Emerging Markets
+PIN,PowerShares India,Equity,Emerging Markets
+VWO,Vanguard Emerging Mkts Stock Idx,Equity,Emerging Markets
+GMM,SPDR S&P Emerging Markets,Equity,Emerging Markets
+EWY,iShares MSCI South Korea Index,Equity,Emerging Markets
+PXQ,PowerShares Dynamic Networking,Equity,US Industry
+TUR,iShares MSCI Turkey Invest Mkt Index,Equity,Emerging Markets
+FGD,First Trust DJ Global Select Dividend,Equity,Global  
+DEM,WisdomTree Emerging Markets Equity Inc,Equity,Emerging Markets
+ECH,iShares MSCI Chile Investable Mkt Idx,Equity,Emerging Markets
+XSD,SPDR S&P Semiconductor,Equity,US Industry
+EEM,iShares MSCI Emerging Markets Index,Equity,Emerging Markets
+EWZ,iShares MSCI Brazil Index,Equity,Emerging Markets
+FBT,First Trust NYSE Arca Biotech Index,Equity,US Industry
+AIA,iShares S&P Asia 50 Index,Equity,Emerging Markets
+EWP,iShares MSCI Spain Index,Equity,Foreign
+RZV,Rydex S&P SmallCap 600 Pure Value,Equity,US Small Cap
+FXY,CurrencyShares Japanese Yen Trust,Currency,Currency
+JYF,WisdomTree Dreyfus Japanese Yen,Currency,Currency
+CFT,iShares Barclays Credit Bond,Bond,Corporate
+ADZ,PowerShares DB Agriculture Short ETN,Inverse,Inverse Commodity
+NIB,iPath DJ AIG Cocoa TR Sub-Idx ETN,Commodity,Commodities
+GAF,SPDR S&P Emerging Middle East & Africa,Equity,Emerging Markets
+EEB,Claymore/BNY Mellon BRIC ETF,Equity,Emerging Markets
+JYN,iPath JPY/USD Exchange Rate ETN,Currency,Currency
+PNQI,PowerShares NASDAQ Internet,Equity,US Industry
+EPP,iShares MSCI Pacific ex-Japan,Equity,Emerging Markets
+EIS,iShares MSCI Israel Cap Invest Mkt Index,Equity,Foreign
+EWD,iShares MSCI Sweden Index,Equity,Foreign
+EWA,iShares MSCI Australia Index,Equity,Foreign
+JSC,SPDR Russell/Nomura Small Cap Japan,Equity,Japan
+PXF,PowerShares FTSE RAFI Dev Mkts ex-US,Equity,Foreign
+CIU,iShares Barclays Intermediate Credit Bd,Bond,Intermediate
+INY,SPDR Barclays Capital New York Muni Bond,Bond,New York Muni
+EMB,iShares JPMorgan USD Emerg Markets Bond,Bond,Emerging Markets Debt
+BNZ,WisdomTree Dreyfus New Zealand Dollar,Currency,Currency
+PSJ,PowerShares Dynamic Software,Equity,US Industry
+QTEC,First Trust NASDAQ-100-Tech Index,Equity,US Industry
+FXA,CurrencyShares Australian Dollar Trust,Currency,Currency
+DND,WisdomTree Pacific ex-Japan Total Div,Equity,Emerging Markets
+GML,SPDR S&P Emerging Latin America,Equity,Emerging Markets
+BZF,WisdomTree Dreyfus Brazilian Real,Currency,Currency
+BWX,SPDR Barclays Capital Intl Treasury Bond,Bond,Foreign
+FDN,First Trust Dow Jones Internet Index,Equity,US Industry
+EWH,iShares MSCI Hong Kong Index,Equity,Emerging Markets
+JNK,SPDR Barclays Capital High Yield Bond,Bond,High Yield
+EWS,iShares MSCI Singapore Index,Equity,Emerging Markets
+ADRE,BLDRS Emerging Markets 50 ADR Index,Equity,Emerging Markets
+GCE,Claymore CEF GS Connect ETN,Diversified,Close End Funds
+HYG,iShares iBoxx $ High Yield Corporate Bd,Bond,High Yield
+ILF,iShares S&P Latin America 40 Index,Equity,Emerging Markets
+PEF,PowerShares FTSE RAFI Europe,Equity,Foreign
+URR,Market Vectors Double Long Euro ETN,Leveraged,Currency
+SCJ,iShares MSCI Japan Small Cap Index,Equity,Japan
+DGG,WisdomTree International Communications,Equity,Global Sector
+DFJ,WisdomTree Japan SmallCap Dividend,Equity,Japan
+CSJ,iShares Barclays 1-3 Year Credit Bond,Bond,Short Term
+CXA,SPDR Barclays Capital California Muni Bd,Bond,California Muni
+BLV,Vanguard Long-Term Bond Index,Bond,Long Term
+WMW,ELEMENTS Morningstar Wide Moat Focus ETN,Equity,US Large Cap
+IDV,iShares Dow Jones Intl Select Div Idx,Equity,Foreign
+CNY,Market Vectors Renminbi/USD ETN,Currency,Currency
+CMF,iShares S&P California Municipal Bond,Bond,California Muni
+RJZ,ELEMENTS Rogers Intl Commodity Metal ETN,Commodity,Metals
+LSC,ELEMENTS S&P CTI ETN,Absolute,Managed Futures
+FXF,CurrencyShares Swiss Franc Trust,Currency,Currency
+PZA,PowerShares Insured National Muni Bond,Bond,National Muni
+IGW,iShares S&P North Amer Tech-Semicondctrs,Equity,US Industry
+LAG,SPDR Barclays Capital Aggregate Bond,Bond,Total
+BIV,Vanguard Interm-Term Bond Index,Bond,Intermediate
+JJS,iPath DJ AIG Softs TR Sub-Idx ETN,Commodity,Commodities
+NLR,Market Vectors Nuclear Energy ETF,Equity,Theme
+DWX,SPDR S&P International Dividend,Equity,Foreign
+XPH,SPDR S&P Pharmaceuticals,Equity,US Industry
+MUB,iShares S&P National Municipal Bond,Bond,Muni
+DKA,WisdomTree International Energy,Equity,US Sector
+TFI,SPDR Barclays Capital Municipal Bond,Bond,Muni
+WIP,SPDR DB Intl Govt Infl-Protected Bond,Absolute,TIP
+AGG,iShares Barclays Aggregate Bond,Bond,Total
+NYF,iShares S&P New York Municipal Bond,Bond,Muni
+GBF,iShares Barclays Government/Credit Bond,Bond,Total
+BND,Vanguard Total Bond Market Index,Bond,Total
+ITM,Market Vectors Intermediate Muni ETF,Bond,Muni
+RFG,Rydex S&P Midcap 400 Pure Growth,Equity,US Mid Cap
+IST,SPDR S&P International Telecom Sector,Equity,US Sector
+IPW,SPDR S&P International Energy Sector,Equity,US Sector
+MTK,SPDR Morgan Stanley Technology,Equity,US Sector
+MBB,iShares Barclays MBS Bond,Bond,Total
+PIZ,PowerShares DWA Dev Mkts Technical Ldrs,Equity,Foreign
+GVI,iShares Barclays Interm Govt/Credit Bond,Bond,Intermediate
+SMB,Market Vectors Short Municipal ETF,Inverse,Muni
+FXH,First Trust Health Care AlphaDEX,Equity,US Industry
+RWJ,RevenueShares Small Cap,Equity,US Small Cap
+EES,WisdomTree SmallCap Earnings,Equity,US Small Cap
+IGN,iShares S&P North Amer Tech-Multimd Ntwk,Equity,US Industry
+XRT,SPDR S&P Retail,Equity,US Industry
+DNL,WisdomTree World ex-US Growth,Equity,Foreign
+PRFZ,PowerShares FTSE RAFI US 1500 Small-Mid,Equity,US Small Cap
+ICN,WisdomTree Dreyfus Indian Rupee,Currency,Currency
+PLK,PowerShares Active Low Duration,Bond,Short Term
+IAH,Internet Architecture HOLDRs,Equity,US Industry
+SCZ,iShares MSCI EAFE Small Cap Index,Equity,Foreign Small Cap
+RTM,Rydex S&P Equal Weight Materials,Equity,US Sector
+PWZ,PowerShares Insured California Muni Bond,Equity,Muni
+IFAS,iShares FTSE EPRA/NAREIT Dev Asia Idx,Real Estate,Foreign
+BSV,Vanguard Short-Term Bond Index,Bond,Short Term
+IYW,iShares Dow Jones US Technology,Equity,US Industry
+HHH,Internet HOLDRs,Equity,US Industry
+IHE,iShares Dow Jones US Pharmaceuticals,Equity,US Industry
+IRV,SPDR S&P International Materials Sector,Equity,Global Sector
+ERO,iPath EUR/USD Exchange Rate ETN,Currency,Currency
+EU,WisdomTree Dreyfus Euro,Currency,Currency
+SHM,SPDR Barclays Capital Short Term Muni Bd,Bond,Short Term
+RYT,Rydex S&P Equal Weight Technology,Equity,US Industry
+CWI,SPDR MSCI ACWI (ex-US),Equity,Foreign
+FXE,CurrencyShares Euro Trust,Currency,Currency
+IPF,SPDR S&P International Financial Sector,Equity,Global Sector
+UDN,PowerShares DB US Dollar Index Bearish,Inverse,Currency
+GWX,SPDR S&P International Small Cap,Equity,Foreign Small Cap
+VGT,Vanguard Information Technology ETF,Equity,US Industry
+TDX,TDX Independence In-Target ETF,Diversified,Target
+DIM,WisdomTree International MidCap Dividend,Equity,Foreign Small Cap
+NFO,Claymore/Sabrient Insider,Equity,Theme
+EFV,iShares MSCI EAFE Value Index,Equity,Foreign
+FXL,First Trust Technology AlphaDEX,Equity,US Industry
+IEI,iShares Barclays 3-7 Year Treasury Bond,Bond,Medium Term
+BSC,ELEMENTS BG Small Cap ETN,Equity,US Small Cap
+RWK,RevenueShares Mid Cap,Equity,US Small Cap
+DBR,WisdomTree International Health Care,Equity,US Industry
+ITE,SPDR Barclays Capital Interm Term Trs,Bond,Intermediate
+IEF,iShares Barclays 7-10 Year Treasury,Bond,Intermediate
+EEN,Claymore/BNY Mellon EW Euro-Pacific LDRs,Equity,Foreign
+TLH,iShares Barclays 10-20 Year Treasury Bd,Bond,Long Term
+IXN,iShares S&P Global Technology,Equity,Global Sector
+MDD,SPDR S&P International Mid Cap,Equity,Foreign
+PRF,PowerShares FTSE RAFI US 1000,Equity,US Large Cap
+IGM,iShares S&P North Amer Technology,Equity,US Sector
+IAI,iShares Dow Jones US Broker-Dealers,Equity,US Industry
+CZA,Claymore/Zacks Mid-Cap Core,Equity,US Mid Cap
+EWL,iShares MSCI Switzerland Index,Equity,Foreign
+PLW,PowerShares 1-30 Laddered Treasury,Bond,Laddered
+IPN,SPDR S&P International Industrial Sector,Equity,Foreign
+DPN,WisdomTree International Cons Staples,Equity,Global Sector
+VEU,Vanguard FTSE All-World ex-US ETF,Equity,Foreign
+VPL,Vanguard Pacific Stock Index,Equity,Foreign
+INR,Market Vectors Rupee/USD ETN,Currency,Currency
+SHY,iShares Barclays 1-3 Year Treasury Bond,Bond,Short Term
+IFSM,iShares FTSE Dev Sm Cap ex-North Amer,Equity,Foreign Small Cap
+MLN,Market Vectors Long Municipal ETF,Bond,Muni
+DDI,WisdomTree International Industrial,Equity,Global Sector
+BDH,Broadband HOLDRs,Equity,US Industry
+HGI,Claymore/Zacks Intl Multi-Asset Income,Diversified,Global Income
+ADRA,BLDRS Asia 50 ADR Index,Equity,Foreign
+TLO,SPDR Barclays Capital Long Term Treasury,Bond,Long Term
+EZM,WisdomTree MidCap Earnings,Equity,US Mid Cap
+PZT,PowerShares Insured New York Muni Bond,Bond,Muni
+TDD,TDX Independence 2010 ETF,Diversified,Target
+CYB,WisdomTree Dreyfus Chinese Yuan,Currency,Currency
+GWL,SPDR S&P World ex-US,Equity,Foreign
+CUT,Claymore/Beacon Global Timber Index,Equity,Global Sector
+GUR,SPDR S&P Emerging Europe,Equity,Emerging Markets
+BBH,Biotech HOLDRs,Equity,US Industry
+QQEW,First Trust NASDAQ-100 Equal Weight Idx,Equity,US Mid Cap
+PVI,PowerShares VRDO Tax-Free Weekly,Bond,Short Term
+IXP,iShares S&P Global Telecommunications,Equity,Global Sector
+ACWX,iShares MSCI ACWI ex US Index,Equity,Foreign
+IPE,SPDR Barclays Capital TIPS,Absolute,TIP
+IPK,SPDR S&P International Technology Sector,Equity,Global Sector
+DXJ,WisdomTree Japan Total Dividend,Equity,Japan
+TIP,iShares Barclays TIPS Bond,Absolute,TIP
+EEZ,WisdomTree Earnings Top 100,Equity,US Large Cap
+XGC,Claymore/BNY Mellon Intl Small Cap LDRs,Equity,Foreign Small Cap
+KOL,Market Vectors Coal ETF,Commodity,Energy
+EKH,Europe 2001 HOLDRs,Equity,Foreign
+JEM,Barclays GEMS Index ETN,Equity,Foreign
+PIO,PowerShares Global Water,Equity,Theme
+TLT,iShares Barclays 20+ Year Treas Bond,Bond,Long Term
+IPD,SPDR S&P International Cons Disc Sector,Equity,Global Sector
+AYT,Barclays GEMS Asia-8 ETN,Equity,Emerging Markets
+XLK,Technology Select Sector SPDR,Equity,US Sector
+FEZ,SPDR DJ EURO STOXX 50,Equity,Foreign
+PKN,PowerShares Global Nuclear Energy,Equity,Theme
+FXC,CurrencyShares Canadian Dollar Trust,Currency,Currency
+VEA,Vanguard Tax-Managed Intl,Equity,Foreign
+DLS,WisdomTree International SmallCap Div,Equity,Foreign Small Cap
+SHV,iShares Barclays Short Treasury Bond,Bond,Short Term
+DBT,WisdomTree International Technology,Equity,Global Sector
+USY,WisdomTree U.S. Short-Term Govt Income,Bond,Short Term
+SMH,Semiconductor HOLDRs,Equity,US Industry
+DFE,WisdomTree Europe SmallCap Dividend,Equity,Foreign Small Cap
+PEJ,PowerShares Dynamic Leisure & Entertain,Equity,US Industry
+QQQQ,PowerShares QQQ,Equity,US Large Cap
+BJK,Market Vectors Gaming ETF,Equity,US Industry
+FXS,CurrencyShares Swedish Krona Trust,Currency,Currency
+EFA,iShares MSCI EAFE Index,Equity,Foreign
+ULQ,Claymore U.S. Capital Mkts Micro-Trm F/I,Bond,Short Term
+TDH,TDX Independence 2020 ETF,Diversified,Target
+PMA,PowerShares Active Mega Cap,Equity,US Large Cap
+RYJ,Claymore/Raymond James SB-1 Equity,Equity,US Large Cap
+DTH,WisdomTree DEFA Equity Income,Equity,Foreign
+BIL,SPDR Barclays Capital 1-3 Month T-Bill,Bond,Short Term
+FXO,First Trust Financials AlphaDEX,Equity,US Industry
+IFGL,iShares FTSE EPRA/NAREIT Dev RE ex-US,Real Estate,Foreign
+PGD,Barclays Asian & Gulf Currency Reval ETN,Currency,Currency
+EMG,SPDR Dow Jones Mid Cap Growth,Equity,US Mid Cap
+PMR,PowerShares Dynamic Retail,Equity,US Industry
+RSX,Market Vectors Russia ETF,Equity,Emerging Markets
+EWQ,iShares MSCI France Index,Equity,Foreign
+PBS,PowerShares Dynamic Media,Equity,US Industry
+DOL,WisdomTree International LargeCap Div,Equity,Foreign
+IEV,iShares S&P Europe 350 Index,Equity,Foreign
+DBN,WisdomTree International Basic Materials,Equity,Global Sector
+MXI,iShares S&P Global Materials,Equity,Global Sector
+VGK,Vanguard European Stock Index,Equity,Foreign
+RYH,Rydex S&P Equal Weight Health Care,Equity,US Sector
+FEU,SPDR DJ STOXX 50,Equity,US Large Cap
+DRW,WisdomTree International Real Estate,Real Estate,Foreign
+DWM,WisdomTree DEFA,Equity,Foreign
+MZN,Claymore/Morningstar Info Super Sector,Equity,US Sector
+PCA,PowerShares Autonomic Bal NFA Glbl Asset,Diversified,Balanced
+UBD,Claymore U.S. Capital Markets Bond,Bond,Total
+RCD,Rydex S&P Equal Weight Consumer Disc,Equity,US Sector
+JJN,iPath DJ AIG Nickel TR Sub-Idx ETN,Commodity,Metals
+RPG,Rydex S&P 500 Pure Growth,Equity,US Large Cap
+FXD,First Trust Consumer Disc AlphaDEX,Equity,US Sector
+RZG,Rydex S&P SmallCap 600 Pure Growth,Equity,
+WPS,iShares S&P Dev ex-US Property Index,Real Estate,
+ADRU,BLDRS Europe 100 ADR Index,Equity,
+JPP,SPDR Russell/Nomura PRIME Japan,Equity,
+PIE,PowerShares DWA Em Mkts Technical Ldrs,Equity,
+DOO,WisdomTree International Div ex-Finncls,Equity,
+EWW,iShares MSCI Mexico Investable Mkt Idx,Equity,
+DRF,WisdomTree International Financial,Equity,
+IPS,SPDR S&P International Cons Stapl Sector,Equity,
+SWH,Software HOLDRs,Equity,
+ADRD,BLDRS Developed Markets 100 ADR Index,Equity,
+FAB,First Trust Multi Cap Value AlphaDEX,Equity,
+IRY,SPDR S&P International HealthCare Sector,Equity,
+EDV,Vanguard Extended Dur Treas Idx Instl,Bond,
+EWC,iShares MSCI Canada Index,Equity,
+EWU,iShares MSCI United Kingdom Index,Equity,
+PJO,PowerShares FTSE RAFI Japan,Equity,
+DEB,WisdomTree Europe Total Dividend,Equity,
+PJP,PowerShares Dynamic Pharmaceuticals,Equity,
+FNX,First Trust Mid Cap Core AlphaDEX,Equity,
+EZU,iShares MSCI EMU Index,Equity,
+RPV,Rydex S&P 500 Pure Value,Equity,
+VOX,Vanguard Telecom Services ETF,Equity,
+ROB,Claymore/Robb Report Global Luxury,Equity,
+DPC,WisdomTree International Cons Discretion,Equity,
+IOO,iShares S&P Global 100 Index,Equity,
+ONEQ,Fidelity Nasdaq Composite Index Tracking,Equity,
+ACWI,iShares MSCI ACWI Index,Equity,
+PQBW,PowerShares NASDAQ-100 BuyWrite,Absolute,
+PUW,PowerShares WilderHill Progrsv Energy,Equity,
+EWJ,iShares MSCI Japan Index,Equity,
+VT,Vanguard Total World Stock Index ETF,Equity,
+PFA,PowerShares Dynamic Developed Intl Opps,Equity,
+IBB,iShares Nasdaq Biotechnology,Equity,
+FXG,First Trust Consumer Staples AlphaDEX,Equity,
+QQXT,First Trust NASDAQ-100 ex-Tech Sector,Equity,
+FVI,First Trust Value Line Equity Allc Index,Equity,
+DSG,SPDR Dow Jones Small Cap Growth,Equity,
+RFV,Rydex S&P Midcap 400 Pure Value,Equity,
+RHS,Rydex S&P Equal Weight Consumer Staples,Equity,
+EFG,iShares MSCI EAFE Growth Index,Equity,
+DSC,SPDR Dow Jones Small Cap,Equity,
+PHB,PowerShares High Yield Corporate Bond,Bond,
+PSI,PowerShares Dynamic Semiconductors,Equity,
+FXZ,First Trust Materials AlphaDEX,Equity,
+DSV,SPDR Dow Jones Small Cap Value,Equity,
+FXU,First Trust Utilities AlphaDEX,Equity,
+REM,iShares FTSE NAREIT Mort Plus Cp Idx,Real Estate,
+PAO,PowerShares Autonmc Bal Gr NFA Glbl Asst,Diversified,
+LVL,Claymore/S&P Global Dividend Opp,Equity,
+IRO,Claymore/Zacks Dividend Rotation,Equity,
+EMM,SPDR Dow Jones Mid Cap,Equity,
+GII,SPDR FTSE/Macquarie Global Infra 100,Equity,
+OTR,Claymore/Ocean Tomo Growth,Equity,
+DBV,PowerShares DB G10 Currency Harvest,Absolute,
+FDV,First Trust DB Strategic Value Index,Equity,
+IGF,iShares S&P Global Infrastructure Index,Equity,
+JKL,iShares Morningstar Small Value Index,Equity,
+PKW,PowerShares Buyback Achievers,Equity,
+TOK,iShares MSCI Kokusai Index,Equity,
+KCE,SPDR KBW Capital Markets,Equity,
+CVY,Claymore/Zacks Multi-Asset Income,Diversified,
+IPU,SPDR S&P International Utilities Sector,Equity,
+RSP,Rydex S&P Equal Weight,Equity,
+KXI,iShares S&P Global Consumer Staples,Equity,
+MOO,Market Vectors Agribusiness ETF,Commodity,
+EWI,iShares MSCI Italy Index,Equity,
+IGV,iShares S&P North Amer Tech-Software,Equity,
+RXI,iShares S&P Global Cons Discretionary,Equity,
+FRN,Claymore/BNY Mellon Frontier Markets,Equity,
+RWX,SPDR Dow Jones Intl Real Estate,Equity,
+PPH,Pharmaceutical HOLDRs,Equity,
+PWV,PowerShares Dynamic Large Cap Value,Equity,
+IXC,iShares S&P Global Energy,Equity,
+VOE,Vanguard Mid-Cap Value ETF,Equity,
+VCR,Vanguard Consumer Discretionary ETF,Equity,
+GBB,iPath GBP/USD Exchange Rate ETN,Currency,
+ITF,iShares S&P/TOPIX 150 Index,Equity,
+EXB,Claymore/Clear Global Exchanges Brokers,Equity,
+EMV,SPDR Dow Jones Mid Cap Value,Equity,
+HAP,Market Vectors RVE Hard Assets Prod ETF,Commodity,
+DEW,WisdomTree Global Equity Income,Equity,
+JKI,iShares Morningstar Mid Value Index,Equity,
+PEZ,PowerShares Dynamic Consumer Disc,Equity,
+IXJ,iShares S&P Global Healthcare,Equity,
+PTF,PowerShares Dynamic Technology,Equity,
+EWG,iShares MSCI Germany Index,Equity,
+XLV,Health Care Select Sector SPDR,Equity,
+VHT,Vanguard Health Care ETF,Equity,
+ICI,iPath Optimized Currency Carry ETN,Currency,
+TDV,TDX Independence 2040 ETF,Diversified,
+CRO,Claymore/Zacks Country Rotation,Equity,
+IHF,iShares Dow Jones US Healthcare Provider,Equity,
+IJK,iShares S&P MidCap 400 Growth Index,Equity,
+DSI,iShares KLD 400 Social Index,Equity,
+BOS,PowerShares DB Base Metals Short ETN,Inverse,
+DBB,PowerShares DB Base Metals,Commodity,
+CGW,Claymore S&P Global Water,Equity,
+IYH,iShares Dow Jones US Healthcare,Equity,
+PTD,E-TRACS UBS Short Platinum ETN,Commodity,
+DBU,WisdomTree International Utilities,Equity,
+PQY,PowerShares Active AlphaQ,Equity,
+MKH,Market 2000 HOLDRs,Equity,
+PQSC,PowerShares FTSE NASDAQ Small Cap,Equity,
+ELG,SPDR Dow Jones Large Cap Growth,Equity,
+EWN,iShares MSCI Netherlands Invstbl Mkt Idx,Equity,
+IVW,iShares S&P 500 Growth Index,Equity,
+XLY,Consumer Discret Select Sector SPDR,Equity,
+IJH,iShares S&P MidCap 400 Index,Equity,
+DGT,SPDR DJ Global Titans,Equity,
+IYC,iShares Dow Jones US Consumer Services,Equity,
+FTA,First Trust Large Cap Value Opp AlphaDEX,Equity,
+JKJ,iShares Morningstar Small Core Index,Equity,
+NYC,iShares NYSE Composite Index,Equity,
+UUP,PowerShares DB US Dollar Index Bullish,Currency,
+IWP,iShares Russell Midcap Growth Index,Equity,
+EXT,WisdomTree Total Earnings,Equity,
+IWF,iShares Russell 1000 Growth Index,Equity,
+JJC,iPath DJ AIG Copper TR Sub-Idx ETN,Equity,
+JXI,iShares S&P Global Utilities,Equity,
+IJJ,iShares S&P MidCap 400 Value Index,Equity,
+FXB,CurrencyShares British Pound Sterling Tr,Currency,
+VB,Vanguard Small Cap Index,Equity,
+VBK,Vanguard Small Cap Growth Index,Equity,
+SDY,SPDR S&P Dividend,Equity,
+EXI,iShares S&P Global Industrials,Equity,
+IWZ,iShares Russell 3000 Growth Index,Equity,
+JKG,iShares Morningstar Mid Core Index,Equity,
+XME,SPDR S&P Metals & Mining,Commodity,
+VO,Vanguard Mid Capitalization Index Ins,Equity,
+RWL,RevenueShares Large Cap,Equity,
+MDY,MidCap SPDRs,Equity,
+BVL,ELEMENTS BG Large Cap ETN,Equity,
+IIH,Internet Infrastructure HOLDRs,Equity,
+FYX,First Trust Small Cap Core AlphaDEX,Equity,
+BVT,ELEMENTS BG Total Market ETN,Equity,
+PSL,PowerShares Dynamic Consumer Staples,Equity,
+OTP,Claymore/Ocean Tomo Patent,Equity,
+EPS,WisdomTree Earnings 500,Equity,
+DOG,Short Dow30 ProShares,Equity,
+VIG,Vanguard Dividend Appreciation ETF,Equity,
+UAG,E-TRACS UBS Bloomberg CMCI Agri ETN,Commodity,
+FUD,E-TRACS UBS Bloomberg CMCI Food ETN,Commodity,
+KIE,SPDR KBW Insurance,Equity,
+VDC,Vanguard Consumer Staples ETF,Equity,
+DON,WisdomTree MidCap Dividend,Equity,
+VXF,Vanguard Extended Market Idx,Equity,
+FPX,First Trust US IPO Index,Equity,
+PWND,PowerShares Global Wind Energy,Equity,
+JKE,iShares Morningstar Large Growth Index,Equity,
+FEX,First Trust Large Cap Core AlphaDEX,Equity,
+RYU,Rydex S&P Equal Weight Utilities,Equity,
+TDN,TDX Independence 2030 ETF,Diversified,
+EZY,WisdomTree LargeCap Value,Equity,
+IGE,iShares S&P North Amer Natural Resources,Equity,
+TMW,SPDR Dow Jones Total Market,Equity,
+XLG,Rydex Russell Top 50,Equity,
+VBR,Vanguard Small Cap Value Index,Equity,
+IWR,iShares Russell Midcap Index,Equity,
+RTH,Retail HOLDRs,Equity,
+BWV,iPath CBOE S&P 500 BuyWrite Index ETN,Absolute,
+SZK,UltraShort Consumer Goods ProShares,Equity,
+DIA,DIAMONDS Trust Series 1,Equity,
+EWO,iShares MSCI Austria Investable Mkt Idx,Equity,
+VUG,Vanguard Growth Index,Equity,
+FVD,First Trust Value Line Dividend Index,Equity,
+MGK,Vanguard Mega Cap 300 Gr Index ETF,Equity,
+FDL,First Trust Morningstar Div Leaders Idx,Equity,
+VV,Vanguard Large Cap ETF,Equity,
+GWO,ELEMENTS CS Global Warming ETN,Equity,
+IWB,iShares Russell 1000 Index,Equity,
+VTI,Vanguard Total Stock Mkt Idx,Equity,
+IYY,iShares Dow Jones U.S. Index,Equity,
+SH,Short S&P500 ProShares,Equity,
+JKK,iShares Morningstar Small Growth Index,Equity,
+IEO,iShares Dow Jones US Oil & Gas Ex Index,Equity,
+KLD,iShares KLD Select Social Index,Equity,
+IWV,iShares Russell 3000 Index,Equity,
+IXG,iShares S&P Global Financials,Equity,
+UEM,Claymore U.S.-1-The Capital Markets Idx,Equity,
+XBI,SPDR S&P Biotech,Equity,
+PWP,PowerShares Dynamic Mid Cap Value,Equity,
+PTO,PowerShares Autonomic Gr NFA Glbl Asset,Equity,
+VTV,Vanguard Value Index,Equity,
+WMH,Wireless HOLDRs,Equity,
+MGC,Vanguard Mega Cap 300 Index ETF,Equity,
+PID,PowerShares Intl Dividend Achievers,Equity,
+VPU,Vanguard Utilities ETF,Equity,
+IYZ,iShares Dow Jones US Telecom,Equity,
+FDD,First Trust DJ STOXX Select Dividend 30,Equity,
+VOT,Vanguard Mid-Cap Growth ETF,Equity,
+PNXQ,PowerShares NXQ,Equity,
+ISI,iShares S&P 1500 Index,Equity,
+XLP,Consumer Staples Select Sector SPDR,Equity,
+XLU,Utilities Select Sector SPDR,Equity,
+FFR,First Trust FTSE EPRA/NAREIT Glb Real Es,Real Estate,
+IVV,iShares S&P 500 Index,Equity,
+IWO,iShares Russell 2000 Growth Index,Equity,
+MGV,Vanguard Mega Cap 300 Value Index ETF,Equity,
+OEF,iShares S&P 100 Index,Equity,
+PBE,PowerShares Dynamic Biotech & Genome,Equity,
+DEF,Claymore/Sabrient Defensive Equity,Equity,
+VYM,Vanguard High Dividend Yield Indx ETF,Equity,
+XLB,Materials Select Sector SPDR,Equity,
+ELR,SPDR Dow Jones Large Cap,Equity,
+ROM,Ultra Technology ProShares,Leveraged,
+IWS,iShares Russell Midcap Value Index,Equity,
+FXR,First Trust Indust/Producer Dur AlphaDEX,Equity,
+SLX,Market Vectors Steel ETF,Commodity,
+PJG,PowerShares Dynamic Mid Cap,Equity,
+EEH,ELEMENTS SPECTRUM Lg Cap U.S. Sector ETN,Equity,
+JKF,iShares Morningstar Large Value Index,Equity,
+FAD,First Trust Multi Cap Growth AlphaDEX,Equity,
+SPY,SPDRs,Equity,
+UBM,E-TRACS UBS Bloomberg CMCI Ind Metal ETN,Commodity,
+IDU,iShares Dow Jones US Utilities,Equity,
+PPA,PowerShares Aerospace & Defense,Equity,
+CSD,Claymore/Beacon Spin-Off,Equity,
+FIW,First Trust ISE Water,Equity,
+FTC,First Trust Large Cap Gr Opp AlphaDEX,Equity,
+JO,iPath DJ AIG Coffee TR Sub-Idx ETN,Commodity,
+IYK,iShares Dow Jones US Consumer Goods,Equity,
+PBP,PowerShares S&P 500 BuyWrite,Absolute,
+JKH,iShares Morningstar Mid Growth Index,Equity,
+USD,Ultra Semiconductor ProShares,Leveraged,
+SBB,Short S&P SmallCap600 ProShares,Equity,
+MZG,Claymore/Morningstar Mfg Super Sector,Equity,
+PBJ,PowerShares Dynamic Food & Beverage,Equity,
+JKD,iShares Morningstar Large Core Index,Equity,
+IYM,iShares Dow Jones US Basic Materials,Equity,
+DES,WisdomTree SmallCap Dividend,Equity,
+IWD,iShares Russell 1000 Value Index,Equity,
+IWW,iShares Russell 3000 Value Index,Equity,
+VAW,Vanguard Materials ETF,Equity,
+PTE,PowerShares Dynamic Telecom & Wireless,Equity,
+PJF,PowerShares Dynamic Large Cap,Equity,
+IWM,iShares Russell 2000 Index,Equity,
+DOD,ELEMENTS DJ High Yield Select 10 ETN,Equity,
+PHO,PowerShares Water Resources,Equity,
+DTD,WisdomTree Total Dividend,Equity,
+TTH,Telecom HOLDRs,Equity,
+RGI,Rydex S&P Equal Weight Industrials,Equity,
+EVX,Market Vectors Environmental Svcs ETF,Equity,
+IWC,iShares Russell Microcap Index,Equity,
+RYE,Rydex S&P Equal Weight Energy,Equity,
+MZO,Claymore/Morningstar Svc Super Sector,Equity,
+DLN,WisdomTree LargeCap Dividend,Equity,
+NY,iShares NYSE 100 Index,Equity,
+BAL,iPath DJ AIG Cotton TR Sub-Idx ETN,Commodity,
+PIC,PowerShares Dynamic Insurance,Equity,
+EWK,iShares MSCI Belgium Investable Mkt Idx,Equity,
+ELV,SPDR Dow Jones Large Cap Value,Equity,
+JJM,iPath DJ AIG Ind Metals TR Sub-Idx ETN,Commodity,
+IJS,iShares S&P SmallCap 600 Value Index,Equity,
+GCC,GreenHaven Continuous Commodity Index,Commodity,
+FXN,First Trust Energy AlphaDEX,Equity,
+PZD,PowerShares Cleantech,Equity,
+PYZ,PowerShares Dynamic Basic Materials,Equity,
+ITA,iShares Dow Jones US Aerospace & Defense,Equity,
+IVE,iShares S&P 500 Value Index,Equity,
+FXM,CurrencyShares Mexican Peso Trust,Currency,
+IWN,iShares Russell 2000 Value Index,Equity,
+IJT,iShares S&P SmallCap 600 Growth,Equity,
+IJR,iShares S&P SmallCap 600 Index,Equity,
+PUI,PowerShares Dynamic Utilities,Equity,
+IYJ,iShares Dow Jones US Industrial,Equity,
+PWB,PowerShares Dynamic Large Cap Growth,Equity,
+PWC,PowerShares Dynamic Market,Equity,
+FDM,First Trust Dow Jones Select MicroCap,Equity,
+IYE,iShares Dow Jones US Energy,Equity,
+DHS,WisdomTree Equity Income,Equity,
+PDP,PowerShares DWA Technical Leaders,Equity,
+FUE,ELEMENTS MLCX Biofuels Index TR ETN,Equity,
+XLE,Energy Select Sector SPDR,Equity,
+VDE,Vanguard Energy ETF,Equity,
+XLI,Industrial Select Sector SPDR,Equity,
+XOP,SPDR S&P Oil & Gas Exploration & Prod,Equity,
+PWO,PowerShares Dynamic OTC,Equity,
+FCG,First Trust ISE-Revere Natural Gas,Equity,
+DTN,WisdomTree Dividend ex-Financials,Equity,
+RHO,Rydex Inverse 2x S&P Select Sector Hlth,Inverse,
+PFM,PowerShares Dividend Achievers,Equity,
+RWO,SPDR Dow Jones Global Real Estate,Real Estate,
+AFK,Market Vectors Africa ETF,Equity,
+GRI,Cohen & Steers Global Realty Majors ETF,Real Estate,
+IHI,iShares Dow Jones US Medical Devices,Equity,
+RTG,Rydex 2x S&P Select Sector Technology,Leveraged,
+VIS,Vanguard Industrials ETF,Equity,
+GULF,WisdomTree Middle East Dividend,Equity,
+UTH,Utilities HOLDRs,Equity,
+RWM,Short Russell2000 ProShares,Equity,
+PST,UltraShort 7-10 Year Treasury ProShares,Bond,
+DRR,Market Vectors Double Short Euro ETN,Inverse,
+PXN,PowerShares Lux Nanotech,Equity,
+IAK,iShares Dow Jones US Insurance,Equity,
+MYY,Short MidCap400 ProShares,Equity,
+IFEU,iShares FTSE EPRA/NAREIT Dev EU Idx,Real Estate,
+PWJ,PowerShares Dynamic Mid Cap Growth,Equity,
+PIQ,PowerShares Dynamic MagniQuant,Equity,
+PBD,PowerShares Global Clean Energy,Equity,
+DDG,Short Oil & Gas ProShares,Inverse,
+JJA,iPath DJ AIG Agriculture TR Sub-Idx ETN,Commodity,
+PTH,PowerShares Dynamic Healthcare,Equity,
+BDG,PowerShares DB Base Metals Long ETN,Commodity,
+IYT,iShares Dow Jones Transportation Average,Equity,
+PKB,PowerShares Dynamic Building & Construct,Equity,
+FAN,First Trust Global Wind Energy,Equity,
+ENY,Claymore/SWM Canadian Energy Income,Equity,
+DBA,PowerShares DB Agriculture,Commodity,
+JJT,iPath DJ AIG Tin TR Sub-Idx ETN,Commodity,
+UCI,E-TRACS UBS Bloomberg CMCI ETN,Equity,
+QLD,Ultra QQQ ProShares,Leveraged,
+PSQ,Short QQQ ProShares,Equity,
+RYF,Rydex S&P Equal Weight Financials,Equity,
+AGF,PowerShares DB Agriculture Long ETN,Commodity,
+RXD,UltraShort Health Care ProShares,Equity,
+XES,SPDR S&P Oil & Gas Equipment & Services,Equity,
+PWY,PowerShares Dynamic Small Cap Value,Equity,
+XHB,SPDR S&P Homebuilders,Equity,
+JFT,KEYnotes First Trust Enh 130/30 LgCp ETN,Equity,
+IYG,iShares Dow Jones US Financial Services,Equity,
+IYF,iShares Dow Jones US Financial Sector,Equity,
+PRN,PowerShares Dynamic Industrials,Equity,
+DVY,iShares Dow Jones Select Dividend Index,Equity,
+PZJ,PowerShares Zacks Small Cap,Equity,
+TBT,UltraShort 20+ Year Treasury ProShares,Bond,
+PWT,PowerShares Dynamic Small Cap Growth,Equity,
+WOOD,iShares S&P Global Timber & Forestry Idx,Equity,
+PQZ,PowerShares Active Alpha Multi-Cap,Equity,
+VFH,Vanguard Financials ETF,Equity,
+PXI,PowerShares Dynamic Energy,Equity,
+PJM,PowerShares Dynamic Small Cap,Equity,
+PXE,PowerShares Dynamic Energy Explor & Prod,Equity,
+IFNA,iShares FTSE EPRA/NAREIT North America,Real Estate,
+PMNA,PowerShares MENA Frontier Countries,Equity,
+PFI,PowerShares Dynamic Financials,Equity,
+ITB,iShares Dow Jones US Home Construction,Real Estate,
+FTY,iShares FTSE NAREIT Real Estate 50,Real Estate,
+RXL,Ultra Health Care ProShares,Equity,
+QCLN,First Trust NASDAQ Clean Edge Green Engy,Equity,
+PTJ,PowerShares Dynamic Healthcare Services,Equity,
+STH,Claymore/Sabrient Stealth,Equity,
+XLF,Financial Select Sector SPDR,Equity,
+SDP,UltraShort Utilities ProShares,Leveraged,
+IYR,iShares Dow Jones US Real Estate,Real Estate,
+DJP,iPath Dow Jones-AIG Commodity Idx TR ETN,Commodity,
+FRI,First Trust S&P REIT,Real Estate,
+XRO,Claymore/Zacks Sector Rotation,Equity,
+REZ,iShares FTSE NAREIT Resid Plus Cp Idx,Real Estate,
+VNQ,Vanguard REIT Index,Real Estate,
+RHM,Rydex 2x S&P Select Sector Health Care,Leveraged,
+RJA,ELEMENTS Rogers Intl Commodity Agri ETN,Commodity,
+PEY,PowerShares HighYield Dividend Achievers,Equity,
+IEZ,iShares Dow Jones US Oil Equipment Index,Equity,
+PZI,PowerShares Zacks Micro Cap,Equity,
+PXJ,PowerShares Dynamic Oil & Gas Services,Equity,
+BOM,PowerShares DB Base Metals Dble Shrt ETN,Commodity,
+OIH,Oil Services HOLDRs,Equity,
+RKH,Regional Bank HOLDRs,Equity,
+RWR,SPDR Dow Jones REIT,Real Estate,
+BHH,B2B Internet HOLDRs,Equity,
+EFZ,Short MSCI EAFE ProShares,Equity,
+MES,Market Vectors Gulf States ETF,Equity,
+PIV,PowerShares Value Line Timeliness Select,Equity,
+UGA,United States Gasoline,Commodity,
+RJI,ELEMENTS Rogers Intl Commodity ETN,Commodity,
+DXD,UltraShort Dow30 ProShares,Leveraged,
+UCC,Ultra Consumer Services ProShares,Leveraged,
+DBO,PowerShares DB Oil,Commodity,
+FVL,First Trust Value Line 100 ETF,Equity,
+PYH,PowerShares Value Line Industry Rotation,Equity,
+UBC,E-TRACS UBS Bloomberg CMCI Livestock ETN,Commodity,
+DGZ,PowerShares DB Gold Short ETN,Commodity,
+KBE,SPDR KBW Bank,Equity,
+DBC,PowerShares DB Commodity Index Tracking,Commodity,
+UGE,Ultra Consumer Goods ProShares,Equity,
+UKF,Ultra Russell1000 Growth ProShares,Equity,
+SFK,UltraShort Russell1000 Growth ProShares,Equity,
+ICF,iShares Cohen & Steers Realty Majors,Real Estate,
+RSW,Rydex Inverse 2x S&P 500,Inverse,
+FIO,iShares FTSE NAREIT Industrl/Offc Cp Idx,Real Estate,
+JJG,iPath DJ AIG Grains TR Sub-Idx ETN,Commodity,
+JJU,iPath DJ AIG Aluminum TR Sub-Idx ETN,Commodity,
+SIJ,UltraShort Industrials ProShares,Leveraged,
+DDM,Ultra Dow30 ProShares,Leveraged,
+GSC,GS Connect S&P GSCI Enh Commodity TR ETN,Commodity,
+PBW,PowerShares WilderHill Clean Energy,Equity,
+RTL,iShares FTSE NAREIT Retail Cp Idx,Real Estate,
+USL,United States 12 Month Oil,Commodity,
+SDS,UltraShort S&P500 ProShares,Leveraged,
+UKW,Ultra Russell MidCap Growth ProShares,Leveraged,
+DBE,PowerShares DB Energy,Commodity,
+COW,iPath DJ AIG Livestock TR Sub-Idx ETN,Commodity,
+DPU,PowerShares DB Commodity Long ETN,Commodity,
+SCC,UltraShort Consumer Services ProShares,Leveraged,
+IAT,iShares Dow Jones US Regional Banks,Equity,
+UPW,Ultra Utilities ProShares,Leveraged,
+RMM,Rydex 2x S&P MidCap 400,Leveraged,
+RSU,Rydex 2x S&P 500,Leveraged,
+OLO,PowerShares DB Crude Oil Long ETN,Commodity,
+MVV,Ultra MidCap400 ProShares,Leveraged,
+SEA,Claymore/Delta Global Shipping,Equity,
+BDD,PowerShares DB Base Metals Dble Long ETN,Leveraged,
+SSO,Ultra S&P500 ProShares,Leveraged,
+GRU,ELEMENTS MLCX Grains Index TR ETN,Commodity,
+KRE,SPDR KBW Regional Banking,Equity,
+LTL,Ultra Telecommunications ProShares,Leveraged,
+SEF,Short Financials ProShares,Inverse,
+GRN,iPath Global Carbon ETN,Absolute,
+GEX,Market Vectors Glb Alternatve Energy ETF,Equity,
+PJB,PowerShares Dynamic Banking,Equity,
+ICLN,iShares S&P Global Clean Energy Index,Equity,
+UKK,Ultra Russell2000 Growth ProShares,Leveraged,
+SDD,UltraShort SmallCap600 ProShares,Leveraged,
+UBN,E-TRACS UBS Bloomberg CMCI Energy ETN,Commodity,
+SJF,UltraShort Russell1000 Value ProShares,Leveraged,
+PSP,PowerShares Listed Private Equity,Equity,
+UVU,Ultra Russell MidCap Value ProShares,Leveraged,
+DAG,PowerShares DB Agriculture Dble Long ETN,Commodity,
+UVG,Ultra Russell1000 Value ProShares,Equity,
+GSG,iShares S&P GSCI Commodity-Indexed Trust,Commodity,
+RMS,Rydex Inverse 2x S&P MidCap 400,Leveraged,
+RRY,Rydex 2x Russell 2000,Leveraged,
+SDK,UltraShort Russell MidCap Gr ProShares,Leveraged,
+SJL,UltraShort Russell MidCap Val ProShares,Leveraged,
+RRZ,Rydex Inverse 2x Russell 2000,Leveraged,
+UXI,Ultra Industrials ProShares,Leveraged,
+SKK,UltraShort Russell2000 Growth ProShares,Leveraged,
+UHN,United States Heating Oil,Commodity,
+GSP,iPath S&P GSCI Total Return Index ETN,Commodity,
+SAA,Ultra S&P SmallCap600 ProShares,Leveraged,
+TLL,UltraShort Telecommunications ProShares,Leveraged,
+UWM,Ultra Russell2000 ProShares,Leveraged,
+MZZ,UltraShort MidCap400 ProShares,Leveraged,
+RTW,Rydex Inverse 2x S&P Select Sector Tech,Leveraged,
+RJN,ELEMENTS Rogers Intl Commodity Engy ETN,Commodity,
+QID,UltraShort QQQ ProShares,Leveraged,
+TWM,UltraShort Russell2000 ProShares,Leveraged,
+UVT,Ultra Russell2000 Value ProShares,Leveraged,
+KWT,Market Vectors Solar Energy ETF,Equity,
+EWV,UltraShort MSCI Japan ProShares,Leveraged,
+SJH,UltraShort Russell2000 Value ProShares,Leveraged,
+TAN,Claymore/MAC Global Solar Energy,Equity,
+REA,Rydex 2x S&P Select Sector Energy,Leveraged,
+UYM,Ultra Basic Materials ProShares,Leveraged,
+DIG,Ultra Oil & Gas ProShares,Leveraged,
+REW,UltraShort Technology ProShares,Leveraged,
+JJE,iPath DJ AIG Energy TR Sub-Idx ETN,Commodity,
+USO,United States Oil,Commodity,
+EUM,Short MSCI Emerging Mkts ProShares,Inverse,
+DZZ,PowerShares DB Gold Double Short ETN,Leveraged,
+OIL,iPath S&P GSCI Crude Oil Ttl Ret Idx ETN,Commodity,
+DYY,PowerShares DB Commodity Dble Long ETN,Leveraged,
+DUG,UltraShort Oil & Gas ProShares,Leveraged,
+REC,Rydex Inverse 2x S&P Select Sector Engy,Leveraged,
+EFU,UltraShort MSCI EAFE ProShares,Leveraged,
+SSG,UltraShort Semiconductor ProShares,Leveraged,
+SMN,UltraShort Basic Materials ProShares,Leveraged,
+GAZ,iPath DJ AIG Natural Gas TR Sub-Idx ETN,Commodity,
+UNG,United States Natural Gas,Commodity,
+UYG,Ultra Financials ProShares,Leveraged,
+RFL,Rydex 2x S&P Select Sector Financial,Leveraged,
+URE,Ultra Real Estate ProShares,Leveraged,
+SKF,UltraShort Financials ProShares,Leveraged,
+RFN,Rydex Inverse 2x S&P Select Sector Fincl,Leveraged,
+SRS,UltraShort Real Estate ProShares,Leveraged,
+EEV,UltraShort MSCI Emerging Mkts ProShares,Leveraged,
+FXP,UltraShort FTSE/Xinhua China25 Proshares,Leveraged,
+AGQ,Ultra Silver ProShares,Leveraged,
+AGZ,iShares Barclays Agency Bond,Bond,
+AMJ,JPMorgan Alerian MLP Index ETN,Equity,
+AOA,iShares S&P Aggressive Allocation,Diversified,
+AOK,iShares S&P Conservative Allocation,Diversified,
+AOM,iShares S&P Moderate Allocation,Diversified,
+AOR,iShares S&P Growth Allocation,Diversified,
+BGU,Direxion Daily Large Cap Bull 3X Shares,Leveraged,
+BGZ,Direxion Daily Large Cap Bear 3X Shares,Leveraged,
+BRF,Market Vectors Brazil Small-Cap ETF,Equity,
+BWZ,SPDR Barclays Cap S/T Intl Treasury Bond,Bond,
+BZQ,UltraShort MSCI Brazil ProShares,Leveraged,
+CEW,WisdomTree Dreyfus Emerging Currency,Currency,
+CMD,UltraShort DJ-AIG Commodity ProShares,Leveraged,
+CSM,ProShares Credit Suisse 130/30,Equity,
+CWB,SPDR Barclays Capital Convertible Bond,Equity,
+DMM,MacroShares Major Metro Housing Down,Real Estate,
+DPK,Direxion Daily Dev Mkts Bear 3X Shrs,Leveraged,
+DRN,Direxion Daily Real Estate Bull 3X Shrs,Leveraged,
+DRV,Direxion Daily Real Estate Bear 3X Shrs,Leveraged,
+DZK,Direxion Daily Dev Mkts Bull 3X Shrs,Leveraged,
+EDC,Direxion Daily Emrg Mkts Bull 3X Shares,Leveraged,
+EDZ,Direxion Daily Emrg Mkts Bear 3X Shares,Leveraged,
+EEG,EGS DJ Emerging Mkts Titans Composite,Equity,
+EEO,EGS DJ Emerging Mkts Energy Titans,Equity,
+EET,Ultra MSCI Emerging Mkts ProShares,Leveraged,
+EFO,Ultra MSCI EAFE ProShares,Leveraged,
+EMIF,iShares S&P Emerging Mkts Infrastructure,Equity,
+EMT,EGS DJ Emerging Mkts Met & Mining Titans,Equity,
+EPU,iShares MSCI All Peru Capped Index,Equity,
+EPV,UltraShort MSCI Europe ProShares,Leveraged,
+EQL,ALPS Equal Sector Weight ETF,Equity,
+ERX,Direxion Daily Energy Bull 3X Shares,Leveraged,
+ERY,Direxion Daily Energy Bear 3X Shares,Leveraged,
+EUO,UltraShort Euro ProShares,Leveraged,
+EZJ,Ultra MSCI Japan ProShares,Leveraged,
+FAA,Claymore/NYSE Arca Airline,Equity,
+FAS,Direxion Daily Financial Bull 3X Shares,Leveraged,
+FAZ,Direxion Daily Financial Bear 3X Shares,Leveraged,
+FLM,First Trust ISE Glbl Engnrg & Const Idx,Equity,
+GLL,UltraShort Gold ProShares,Leveraged,
+GVT,Grail American Beacon Large Value ETF,Equity,
+GXG,Global X/InterBolsa FTSE Colombia 20 ETF,Equity,
+HYD,Market Vectors High-Yield Muni ETF,Bond,
+IDX,Market Vectors Indonesia ETF,Equity,
+IGOV,iShares S&P/Citi Intl Treasury Bond,Bond,
+ISHG,iShares S&P/Citi 1-3 Yr Intl Treasury Bd,Bond,
+ITR,SPDR Barclays Capital Interm Credit Bond,Bond,
+JPX,UltraShort MSCI Pacific ex-Jpn ProShares,Leveraged,
+JVS,JETS DJ Islamic Market Intl Index,Equity,
+KME,SPDR KBW Mortgage Finance,Equity,
+LWC,SPDR Barclays Capital Long Credit Bond,Bond,
+MBG,SPDR Barclays Cap Mortgage Backed Bond,Bond,
+MCRO,IQ Hedge Macro Tracker ETF,Absolute,
+MWJ,Direxion Daily Mid Cap Bull 3X Shares,Leveraged,
+MWN,Direxion Daily Mid Cap Bear 3X Shares,Leveraged,
+PAGG,PowerShares Global Agriculture,Commodity,
+PBTQ,PowerShares Global Biotech,Commodity,
+PKOL,PowerShares Global Coal,Commodity,
+PRB,Market Vectors Pre-Refunded Muni ETF,Bond,
+PSAU,PowerShares Global Gold & Prec Metals,Commodity,
+PSR,PowerShares Active U.S. Real Estate,Real Estate,
+PSTL,PowerShares Global Steel,Commodity,
+PTRP,PowerShares Global Progressive Transport,Equity,
+PXR,PowerShares Emerg Mks Infrastructure,Equity,
+QAI,IQ Hedge Multi-Strategy Tracker ETF,Absolute,
+ROI,WisdomTree LargeCap Growth,Equity,
+RTR,RevenueShares ADR,Equity,
+RWV,RevenueShares Navallier Overall A-100,Equity,
+RWW,RevenueShares Financials Sector,Equity,
+SCO,UltraShort DJ-AIG Crude Oil ProShares,Leveraged,
+SIVR,ETFS Silver Trust,Commodity,
+SMK,UltraShort MSCI Mexico InvstMt ProShares,Leveraged,
+SPXU,UltraPro Short S&P500 ProShares,Leveraged,
+SUB,iShares S&P Short Term National Muni Bd,Bond,
+TGR,iShares S&P Target Date Retirement Inc,Diversified,
+TMF,Direxion Daily 30 Yr Trs Bull 3X Shares,Leveraged,
+TMV,Direxion Daily 30 Yr Trs Bear 3X Shares,Leveraged,
+TNA,Direxion Daily Small Cap Bull 3X Shares,Leveraged,
+TUZ,PIMCO 1-3 Year US Treasury Index ETF,Bond,
+TWQ,UltraShort Russell3000 ProShares,Leveraged,
+TYD,Direxion Daily 10 Yr Trs Bull 3X Shares,Leveraged,
+TYH,Direxion Daily Technology Bull 3X Shares,Leveraged,
+TYO,Direxion Daily 10 Yr Trs Bear 3X Shares,Leveraged,
+TYP,Direxion Daily Technology Bear 3X Shares,Leveraged,
+TZA,Direxion Daily Small Cap Bear 3X Shares,Leveraged,
+TZD,iShares S&P Target Date 2010,Diversified,
+TZE,iShares S&P Target Date 2015,Diversified,
+TZG,iShares S&P Target Date 2020,Diversified,
+TZI,iShares S&P Target Date 2025,Diversified,
+TZL,iShares S&P Target Date 2030,Diversified,
+TZO,iShares S&P Target Date 2035,Diversified,
+TZV,iShares S&P Target Date 2040,Diversified,
+UCD,Ultra DJ-AIG Commodity ProShares,Leveraged,
+UCO,Ultra DJ-AIG Crude Oil ProShares,Leveraged,
+UGL,Ultra Gold ProShares,Leveraged,
+ULE,Ultra Euro ProShares,Leveraged,
+UMM,MacroShares Major Metro Housing Up,Real Estate,
+UPRO,UltraPro S&P500 ProShares,Leveraged,
+UWC,Ultra Russell3000 ProShares,Leveraged,
+VSS,Vanguard FTSE All-Wld ex-US SmCp Idx Ins,Equity,
+VXX,iPath S&P 500 VIX Short-Term Futures ETN,Absolute,
+VXZ,iPath S&P 500 VIX Mid-Term Futures ETN,Absolute,
+XPP,Ultra FTSE/Xinhua China 25 ProShares,Leveraged,
+XRU,CurrencyShares Russian Ruble Trust,Currency,
+YCL,Ultra Yen ProShares,Leveraged,
+YCS,UltraShort Yen ProShares,Leveraged,
+ZSL,UltraShort Silver ProShares,Leveraged,
