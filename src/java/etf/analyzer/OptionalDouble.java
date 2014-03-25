@@ -6,6 +6,10 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 
+/**
+ * Partial implementation of equivalent of C# double? which allows chaining of arithmentic operations on potentially empty/(aka null) values.
+ *
+ */
 public class OptionalDouble implements Comparable<OptionalDouble>  
 {
 	private final Optional<Double> self;
