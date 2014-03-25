@@ -203,7 +203,7 @@ class TimeSeries {
 	        .sorted(comparing((Entry<LocalDate,Double> p) -> p.getKey()).reversed())
 	        .limit(200)
 	        .mapToDouble(e -> e.getValue())
-	        .average().orElse(0.0d)
+	        .average().orElse(0d)
         );
 	}
 	private double todayPrice() {
