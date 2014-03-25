@@ -36,7 +36,12 @@ public class WebClient extends HttpClient implements AutoCloseable {
             @Override
             public void onComplete(Result result) {
                 if (!result.isFailed() && result.getResponse().getStatus() == 200) {
-                    consumer.accept(new DownloadStringAsyncCompletedArgs(getContentAsString(), null));
+                    try {
+                        consumer.accept(new DownloadStringAsyncCompletedArgs(getContentAsString(), null));
+                    } catch (Exception e) {
+                        System.err.println("\n" + getContentAsString());
+                        e.printStackTrace();
+                    }
                 } else {
                     consumer.accept(new DownloadStringAsyncCompletedArgs(null, "ERROR"));
                 }

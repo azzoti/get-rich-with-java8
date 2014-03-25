@@ -117,7 +117,8 @@ class TimeSeries {
 		this._assetClass = assetClass;
 		this._assetSubClass = assetSubClass;
 		this._adjDictionary = events.stream().collect(toMap(Event::getDate, Event::getPrice));
-		this._start = events.get(events.size() - 1).getDate();
+		this._start = events.size() - 1 > 0 ? events.get(events.size() - 1).getDate() : LocalDate.now().minusYears(99);
+
 	}
 
 	private static final class FindPriceAndShift {
@@ -202,7 +203,7 @@ class TimeSeries {
 	        .sorted(comparing((Entry<LocalDate,Double> p) -> p.getKey()).reversed())
 	        .limit(200)
 	        .mapToDouble(e -> e.getValue())
-	        .average().getAsDouble()
+	        .average().orElse(0.0d)
         );
 	}
 	private double todayPrice() {

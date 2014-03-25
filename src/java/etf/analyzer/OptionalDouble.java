@@ -30,7 +30,6 @@ public class OptionalDouble implements Comparable<OptionalDouble>
 		return new OptionalDouble(apply(other, (x,y) -> x / y));
 	}
 	
-	
 	public Double get() {
 		return self.get();
 	}
