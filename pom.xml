@@ -35,5 +35,14 @@
 			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.codehaus.mojo</groupId>
+			<artifactId>exec-maven-plugin</artifactId>
+			<version>1.2.1</version>
+			<type>maven-plugin</type>
+			<configuration>
+				<mainClass>etf.analyzer.Program</mainClass>
+			</configuration>
+		</dependency>
 	</dependencies>
 </project>
