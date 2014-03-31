@@ -29,9 +29,8 @@ class Event {
 }
 class Summary {
   public Summary(String ticker, String name, String assetClass,
-      String assetSubClass, OptionalDouble weekly,
-      OptionalDouble fourWeeks, OptionalDouble threeMonths,
-      OptionalDouble sixMonths, OptionalDouble oneYear,
+      String assetSubClass, OptionalDouble weekly, OptionalDouble fourWeeks, 
+      OptionalDouble threeMonths, OptionalDouble sixMonths, OptionalDouble oneYear,
       OptionalDouble stdDev, double price, OptionalDouble mav200) {
     this.ticker = ticker;
     this.name = name;
@@ -61,7 +60,6 @@ class Summary {
   private OptionalDouble stdDev;
   private OptionalDouble mav200;
   private double price;
-  public long time;
 
   static void banner() {
     out.printf("%-6s", "Ticker");
@@ -76,7 +74,6 @@ class Summary {
     out.printf("%6s", "Vol");
     out.printf("%2s\n", "Mv");
   }
-
   void print() {
     out.printf("%-6s", ticker);
     out.printf("%-50s", name);
@@ -104,7 +101,6 @@ class TimeSeries {
   private String _assetSubClass;
 
   public TimeSeries(String ticker, String name, String assetClass, String assetSubClass, List<Event> events) {
-    super();
     this.ticker = ticker;
     this._name = name;
     this._assetClass = assetClass;
